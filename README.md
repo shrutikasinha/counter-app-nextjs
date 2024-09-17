@@ -1,4 +1,4 @@
 ![alt text](image.png)
 
 
-This is a Counter app with counter component being reused for maintaing 2 different counters. 
+This is a Counter app developed by using React, Next.js, TypeScript, React-Testing Jest
